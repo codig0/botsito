@@ -1,10 +1,5 @@
 # 🤖 Bot de Recuperación de Cuentas de Facebook
-
-<p align="center">
-  <img src="https://i.postimg.cc/tJ41CyXN/wallhaven-1jo6p1.png" alt="wallhaven-1jo6p1.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
-</p>
-
-
+[![141881-animacion-personaje-de-ficcion-arte-ilustracion-arte-digital-3840x2160.jpg](https://i.postimg.cc/8PtqbJ64/141881-animacion-personaje-de-ficcion-arte-ilustracion-arte-digital-3840x2160.jpg)](https://postimg.cc/rKRnVpgR)
 
 
 > ¿Problemas para acceder a tu cuenta de Facebook? ¡Este bot está aquí para ayudarte!
