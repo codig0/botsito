@@ -7,14 +7,18 @@
 ## 📋 Requisitos
 
 - Python 3.11+
-- Poetry
+- python-telegram-bot
+- dotenv
 
 ## 🚀 Instalación
 
 1. Clona este repositorio:
 
 git clone https://github.com/codig0/botsito.git
+
 cd botsito
+
+
 pip install python-telegram-bot python-dotenv
 
 2. Inicia el bot:
