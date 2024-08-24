@@ -1,8 +1,8 @@
 # 🤖 Bot de Recuperación de Cuentas de Facebook
 
-[![wallhaven-1jo6p1.png](https://i.postimg.cc/tJ41CyXN/wallhaven-1jo6p1.png)](https://postimg.cc/CB9Mm3nR)
-
-
+<p align="center">
+  <img src="https://i.postimg.cc/tJ41CyXN/wallhaven-1jo6p1.png" alt="wallhaven-1jo6p1.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
+</p>
 
 
 
